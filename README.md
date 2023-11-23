@@ -1,6 +1,6 @@
 ![Cask](cask.png)
 
-# STAP: System Trustworthy and Accountability Profile for ODRL
+# STAP: System Trustworthiness and Accountability Profile for ODRL
 
 `This work is still under development.`
 
@@ -14,9 +14,9 @@ It is intended to provide additional Actions for Rules and additional Party Func
 
 ## Sister projects
 
-STAV (a <u>v</u>ocabulary) and STAP (an ODRL <u>P</u>rofile) are sisters.
+STA*V* (a *V*ocabulary) and STA*P* (an ODRL *P*rofile) are sisters for system trustworthiness and accountability.
 
-- **STAV** provides vocabulary extracted from regulations and policy documents, mostly AI safety-related. Its IRI is [https://w3id.org/stav](https://w3id.org/stav).
+- **STAV** provides a vocabulary extracted from regulations and policy documents, mostly AI safety-related. Its IRI is [https://w3id.org/stav](https://w3id.org/stav).
 - **STAP** provides a set of core accountability relationships, based on [Open Digital Rights Language](https://www.w3.org/TR/odrl-model/). They are trying not to be AI-specific. Its IRI is [https://w3id.org/stap](https://w3id.org/stap).
 
 
