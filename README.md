@@ -16,8 +16,8 @@ It is intended to provide additional Actions for Rules and additional Party Func
 
 STAV (vocabulary) and STAP (ODRL Profile) are sisters.
 
-- **STAV** provides vocabulary extracted from regulations and policy documents, mostly AI safety-related. Its IRI is https://w3id.org/stav.
-- **STAP** provides a set of core accountability relationships. They are trying not to be AI-specific. STAP is a ODRL Profile. Its IRI is https://w3id.org/stap.
+- **STAV** provides vocabulary extracted from regulations and policy documents, mostly AI safety-related. Its IRI is [https://w3id.org/stav](https://w3id.org/stav).
+- **STAP** provides a set of core accountability relationships. They are trying not to be AI-specific. STAP is a ODRL Profile. Its IRI is [https://w3id.org/stap](https://w3id.org/stap).
 
 
 ## Author
