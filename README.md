@@ -16,7 +16,7 @@ It is intended to provide additional Actions for Rules and additional Party Func
 
 STA*V* (a *V*ocabulary) and STA*P* (an ODRL *P*rofile) are sisters for system trustworthiness and accountability.
 
-- **STAV** provides a vocabulary extracted from regulations and policy documents, mostly AI safety-related. Its IRI is [https://w3id.org/stav](https://w3id.org/stav).
+- **STAV** provides a vocabulary (with focus on *informational items*) extracted from regulations and policy documents, mostly AI safety-related. Its IRI is [https://w3id.org/stav](https://w3id.org/stav).
 - **STAP** provides a set of core accountability relationships, based on [Open Digital Rights Language](https://www.w3.org/TR/odrl-model/). They are trying not to be AI-specific. Its IRI is [https://w3id.org/stap](https://w3id.org/stap).
 
 
@@ -29,3 +29,12 @@ STAV is developed and maintained by Arthit Suriyawongkul ([@bact](https://github
 This work is conducted with the financial support of the [Science Foundation Ireland Centre for Research Training in Digitally-Enhanced Reality (d-real)](https://d-real.ie/) under Grant No. 18/CRT/6224.
 
 *Cask icon created by [justicon - Flaticon](https://www.flaticon.com/free-icons/barrel)*
+
+
+## Related works
+
+Members of [RegTech group at ADAPT Centre](https://regtech.adaptcentre.ie/) contribute to AI and data ontology projects below, and they are may be of your interest:
+- [Trustworthy AI Requirements Ontology (TAIR)](https://tair.adaptcentre.ie/)
+- [AI Risk Ontology (AIRO)](https://w3id.org/airo)
+- [Vocabulary of AI Risks (VAIR)](https://w3id.org/vair)
+- [Data Privacy Vocabulary (DPV)](https://w3id.org/dpv)
